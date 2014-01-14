@@ -1,5 +1,4 @@
-fish_prompt-simplevi
-====================
+# simplevi theme
 
 The stock prompt with the vi indicator appended.
 Must be used with the `vi-mode` plugin.
